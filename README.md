@@ -1,6 +1,6 @@
-## Sistema de Recarga de Carros Elétricos Inteligente
+<p align="center>## Sistema de Recarga de Carros Elétricos Inteligente</p>
 
-<p align="center"> Este projeto visa criar o protótipo inicial de ma infraestrutura capaz de otimizar o uso dos pontos de recarga, indicar aos motoristas os locais mais adequados com base na distância e disponibilidade, permitir reservas, realizar liberações automáticas após o carregamento e registrar os dados para posterior pagamento. O sistema que promove uma comunicação inteligente, padronizada e em tempo real entre os veículos, nuvem e pontos de recarga. </p>
+<p align=> Este projeto visa criar o protótipo inicial de ma infraestrutura capaz de otimizar o uso dos pontos de recarga, indicar aos motoristas os locais mais adequados com base na distância e disponibilidade, permitir reservas, realizar liberações automáticas após o carregamento e registrar os dados para posterior pagamento. O sistema que promove uma comunicação inteligente, padronizada e em tempo real entre os veículos, nuvem e pontos de recarga. </p>
 
 
 ## Sumário
